@@ -61,5 +61,6 @@ public class Main {
         System.out.printf("\nLiczba występuje\na: %d - razy\nb: %d - razy\nc: %d - razy",
                 tablica[0], tablica[1], tablica[2]);
 
+
     }
 }

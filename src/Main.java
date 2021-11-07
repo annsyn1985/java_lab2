@@ -45,6 +45,7 @@ public class Main {
         /* Switch case często używany jest z pętlą, gdzie case-y działają jak else if() */
         String text = "aabaacbbaa";
         int[] tablica = {0, 0, 0};
+        /* toCharArray() - metoda zamienia String na tablicę char[] */
         for (char zmiennaChar : text.toCharArray()) {
             switch (zmiennaChar) {
                 case 'a':

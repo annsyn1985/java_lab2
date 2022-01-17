@@ -9,6 +9,7 @@ public class Main {
         /* Przyklad_7* Mapy - Tylko dla chętnych */
 
         /* mapy są strukturami które przyjmują klucz i wartość */
+        /* Map jest interfejsem a HashMap jest klasą implementującą Interfejs (tylko informacyjnie), więcej o tym w kolejnym laboratorium */
         Map<Integer, String> shapes = new HashMap<Integer, String>();
         shapes.put(1, "Kwadrat"); // dodawanie pary klucz - wartość
         shapes.put(2, "Koło");

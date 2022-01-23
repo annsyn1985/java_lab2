@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        /* Cw.7* Mapy - Tylko dla chętnych */
+        /* Cw.7* Mapy - Tylko dla chętnych (bez dodatkowych punktów) */
 
         /* Zad.1* Napisać program:
             a) Stworzenie mapę: Map<String, String>,

@@ -72,6 +72,10 @@ public class Main {
         imiona.add("Zuza");
         imiona.add("Zuza");
 
+        /* TreeSet ma wbudowane sortowanie, nie trzeba sortować,
+           dla innych typów, np. HashSet trzeba albo przeconvertować na TreeSet, albo na liste i posortować
+        */
+
         System.out.println("imiona: " + imiona); // [Ania, Kasia, Wojtek, Zuza]
         System.out.println(imiona.size()); // 4
 
